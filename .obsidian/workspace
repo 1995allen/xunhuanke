@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "ec57caa0d20be364",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b04ea065ec27d1e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a65970f9cc0bc9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3439bfc7a67d691",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e44233ccec32828",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5fe85592f5dcf18e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b49b54a3d12ede3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "93bcac3456048afa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e83d8e64805084d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4b04ea065ec27d1e",
+  "lastOpenFiles": [
+    "README.md",
+    "attribute.md",
+    "python/Python 数据分析：活用 Pandas 库/第四部分 数据建模/第 16 章：聚类.md",
+    "python/Python 数据分析：活用 Pandas 库/第三部分 数据整理/第 7 章：数据类型.md",
+    "python/Python 数据分析：活用 Pandas 库/第四部分 数据建模/第 12 章：线性模型.md",
+    "python/Python 数据分析：活用 Pandas 库/第四部分 数据建模/第 13 章：广义线性模型.md"
+  ]
+}
