@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4b04ea065ec27d1e",
+        "id": "448d420bb8125539",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4b04ea065ec27d1e",
+  "active": "448d420bb8125539",
   "lastOpenFiles": [
     "README.md",
     "attribute.md",
