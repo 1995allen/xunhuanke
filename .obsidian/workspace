@@ -7,8 +7,11 @@
         "id": "448d420bb8125539",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "三节课/互联网运营增长/电商运营/搭建电商标签体系实现精细化运营.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "三节课/互联网运营增长/电商运营/搭建电商标签体系实现精细化运营.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,7 @@
   },
   "active": "448d420bb8125539",
   "lastOpenFiles": [
+    "三节课/互联网运营增长/电商运营/搭建电商标签体系实现精细化运营.md",
     "README.md",
     "attribute.md",
     "python/Python 数据分析：活用 Pandas 库/第四部分 数据建模/第 16 章：聚类.md",
