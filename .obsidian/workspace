@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "448d420bb8125539",
+        "id": "5ddec7d86efdeb09",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "三节课/互联网运营增长/电商运营/搭建电商标签体系实现精细化运营.md",
+            "file": "python/python3爬虫实战/第1章 爬虫基础/1.2 Web网页基础.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "三节课/互联网运营增长/电商运营/搭建电商标签体系实现精细化运营.md",
+                "file": "python/python3爬虫实战/第1章 爬虫基础/1.2 Web网页基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,12 +83,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "448d420bb8125539",
+  "active": "5ddec7d86efdeb09",
   "lastOpenFiles": [
+    "python/python3爬虫实战/第1章 爬虫基础/1.2 Web网页基础.md",
     "三节课/互联网运营增长/电商运营/搭建电商标签体系实现精细化运营.md",
+    "标签体系.md",
+    "www.rexegg.com.md",
     "README.md",
     "attribute.md",
     "python/Python 数据分析：活用 Pandas 库/第四部分 数据建模/第 16 章：聚类.md",
