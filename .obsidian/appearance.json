@@ -1,10 +1,11 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Obsidian Nord",
   "theme": "obsidian",
-  "interfaceFontFamily": "Book Antiqua",
-  "textFontFamily": "Nirmala UI",
-  "baseFontSize": 12,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "baseFontSize": 15,
   "enabledCssSnippets": [
     "Obsidian Nord"
-  ]
+  ],
+  "monospaceFontFamily": ""
 }
