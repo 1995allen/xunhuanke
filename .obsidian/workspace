@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5ddec7d86efdeb09",
+        "id": "91df184af8cf9f94",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "数据库/MySQL 基础教程/第3部分 熟练使用 MySQL/第8章 使用各种条件进行提取.md",
+            "mode": "source",
+            "backlinks": true
+          }
         }
       }
     ],
@@ -44,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "68a96b3c6e5d29ed",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -65,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "数据库/MySQL 基础教程/第3部分 熟练使用 MySQL/第8章 使用各种条件进行提取.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,24 +87,66 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "5e8b7120e0bb7d76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据库/MySQL 基础教程/第3部分 熟练使用 MySQL/第8章 使用各种条件进行提取.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ed208921a47529a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b4b27097e4058b78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据库/MySQL 基础教程/第3部分 熟练使用 MySQL/第8章 使用各种条件进行提取.md"
+              }
+            }
+          },
+          {
+            "id": "db70c6716a2851d9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "5ddec7d86efdeb09",
+  "active": "91df184af8cf9f94",
   "lastOpenFiles": [
-    "数据库/MySQL 基础教程/第1部分 初始 MySQL/未命名.md",
-    "数据库/MySQL 基础教程/第1部分 初始 MySQL/第2章 MySQL 的环境配置.md",
+    "数据库/MySQL 基础教程/第3部分 熟练使用 MySQL/第8章 使用各种条件进行提取.md",
+    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第7章 复制、删除表和记录.md",
+    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md",
+    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第5章 数据类型和数据输入.md",
     "数据库/MySQL 基础教程/第1部分 初始 MySQL/第1章 MySQL  的概要.md",
-    "python/python3爬虫实战/第1章 爬虫基础/1.2 Web网页基础.md",
-    "三节课/互联网运营增长/电商运营/搭建电商标签体系实现精细化运营.md",
-    "标签体系.md",
-    "www.rexegg.com.md",
-    "README.md",
-    "attribute.md",
-    "python/Python 数据分析：活用 Pandas 库/第四部分 数据建模/第 16 章：聚类.md"
+    "数据库/MySQL 基础教程/第1部分 初始 MySQL/第2章 MySQL 的环境配置.md",
+    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
+    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第4章 创建数据库.md",
+    "日记/2022-06-02.md",
+    "事项.md"
   ]
 }

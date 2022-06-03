@@ -1,0 +1,16 @@
+{
+  "hideVault": false,
+  "hideTitleBar": false,
+  "hideStatusBar": false,
+  "originalMarkings": true,
+  "relationLinesPreview": true,
+  "prettyTasksEditor": true,
+  "darkEnhance": true,
+  "fontSizeNotes": 14,
+  "fontSizeFileExplorer": 12,
+  "writerMode": false,
+  "paragraphFocusMode": false,
+  "paragraphFocusFade": 25,
+  "flatAndyMode": false,
+  "readableLength": 45
+}
