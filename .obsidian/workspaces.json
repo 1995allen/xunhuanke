@@ -1,0 +1,178 @@
+{
+  "workspaces": {
+    "笔记": {
+      "main": {
+        "id": "ec57caa0d20be364",
+        "type": "split",
+        "children": [
+          {
+            "id": "a36c77072d90ff94",
+            "type": "leaf",
+            "dimension": 66.76540284360189,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
+                "mode": "source",
+                "backlinks": true
+              }
+            },
+            "group": "b7702925a7ab62ae"
+          },
+          {
+            "id": "87b4751aad153b8c",
+            "type": "split",
+            "dimension": 33.2345971563981,
+            "children": [
+              {
+                "id": "a8a8c513a4749d4e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
+                    "mode": "preview",
+                    "backlinks": true
+                  }
+                }
+              },
+              {
+                "id": "911c525cbf1f200a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md"
+                  }
+                },
+                "group": "b7702925a7ab62ae"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9a65970f9cc0bc9f",
+        "type": "split",
+        "children": [
+          {
+            "id": "b3439bfc7a67d691",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e44233ccec32828",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5fe85592f5dcf18e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "68a96b3c6e5d29ed",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "b49b54a3d12ede3e",
+        "type": "split",
+        "children": [
+          {
+            "id": "93bcac3456048afa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e83d8e64805084d3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "5e8b7120e0bb7d76",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4ed208921a47529a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b4b27097e4058b78",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md"
+                  }
+                }
+              },
+              {
+                "id": "db70c6716a2851d9",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "a36c77072d90ff94"
+    }
+  },
+  "active": "笔记"
+}

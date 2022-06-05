@@ -5,5 +5,7 @@
   "showLineNumber": true,
   "spellcheck": false,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./image"
+  "attachmentFolderPath": "./image",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "名词释义"
 }

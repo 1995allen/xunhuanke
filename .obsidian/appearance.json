@@ -1,11 +1,20 @@
 {
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "enabledCssSnippets": [
-    "Obsidian Nord"
+    "Discordian",
+    "Obsidian Nord",
+    "list-outline",
+    "round-checkbox",
+    "tag-flag",
+    "tag-pills",
+    "text-justify",
+    "auto-fade-control"
   ],
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "translucency": false,
+  "baseFontSizeAction": true
 }

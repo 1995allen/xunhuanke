@@ -1,17 +1,29 @@
 
 # 3.1 创建数据库前的准备事项
 
-- [ ] 安装好 MySQL
-- [ ] 设置好 MySQL 安装文件夹的路径
-- [ ] 完成 MySQL 的中文设置
+- [x] 安装好 MySQL
+- [x] 设置好 MySQL 安装文件夹的路径
+- [x] 完成 MySQL 的中文设置
 
 # 3.2 什么是 MySQL 监视器
+
+- [[MySQL 监视器]]
 
 # 3.3 启动 MySQL 监视器
 
 ## 3.3.1 启动终端软件
 
+- MySQL 监视器需要使用终端软件
+	- windows 的终端，即 win+r 输入 cmd 后运行的程序
+
 ## 3.3.2 启动 MySQL 监视器
+
+- 在命令提示符中输入 mysql 命令，就可以启动 MySQL 监视器
+
+```base
+mysql -u 用户名 -p 密码
+mysql -u root -proot
+```
 
 [[专栏]] 命令提示符的 UTF-8 设置
 
