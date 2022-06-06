@@ -6,7 +6,7 @@
       {
         "id": "a36c77072d90ff94",
         "type": "leaf",
-        "dimension": 74.04803749267721,
+        "dimension": 65.52598225602027,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "fa7e27b3b8c42b1a",
         "type": "split",
-        "dimension": 25.95196250732279,
+        "dimension": 34.47401774397972,
         "children": [
           {
             "id": "758aaf9026868812",
@@ -170,14 +170,14 @@
   "active": "a36c77072d90ff94",
   "lastOpenFiles": [
     "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
+    "数据库/MySQL 基础教程/第1部分 初始 MySQL/第2章 MySQL 的环境配置.md",
+    "日记/2022-06-06 周一 上午.md",
     "README.md",
     "名词释义/小家伙.md",
     "日记/2022-06-03 周五 下午.md",
     "日记/2022-06-03 周五 晚上.md",
     "名词释义/MySQL 监视器.md",
-    "数据库/MySQL 基础教程/第1部分 初始 MySQL/第2章 MySQL 的环境配置.md",
     "数据库/MySQL 基础教程/第1部分 初始 MySQL/第1章 MySQL  的概要.md",
-    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第4章 创建数据库.md",
-    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第5章 数据类型和数据输入.md"
+    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第4章 创建数据库.md"
   ]
 }
