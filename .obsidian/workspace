@@ -4,47 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a36c77072d90ff94",
+        "id": "de1239cd93f6e944",
         "type": "leaf",
-        "dimension": 65.52598225602027,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
+            "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md",
             "mode": "source",
             "backlinks": true
           }
         }
-      },
-      {
-        "id": "fa7e27b3b8c42b1a",
-        "type": "split",
-        "dimension": 34.47401774397972,
-        "children": [
-          {
-            "id": "758aaf9026868812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
-                "mode": "source",
-                "backlinks": true
-              }
-            }
-          },
-          {
-            "id": "1e34538e8df4db77",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -108,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
+                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
+                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md"
+                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md"
               }
             }
           },
@@ -167,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a36c77072d90ff94",
+  "active": "de1239cd93f6e944",
   "lastOpenFiles": [
-    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
-    "数据库/MySQL 基础教程/第1部分 初始 MySQL/第2章 MySQL 的环境配置.md",
-    "日记/2022-06-06 周一 上午.md",
+    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md",
+    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第5章 数据类型和数据输入.md",
     "README.md",
-    "名词释义/小家伙.md",
-    "日记/2022-06-03 周五 下午.md",
-    "日记/2022-06-03 周五 晚上.md",
-    "名词释义/MySQL 监视器.md",
-    "数据库/MySQL 基础教程/第1部分 初始 MySQL/第1章 MySQL  的概要.md",
-    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第4章 创建数据库.md"
+    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第4章 创建数据库.md",
+    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第7章 复制、删除表和记录.md",
+    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
+    "名词释义/总结.md",
+    "名词释义/专栏.md",
+    "数据库/MySQL 基础教程/第3部分 熟练使用 MySQL/第8章 使用各种条件进行提取.md",
+    "日记/2022-06-06 周一 下午.md"
   ]
 }
