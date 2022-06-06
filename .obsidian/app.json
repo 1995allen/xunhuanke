@@ -7,5 +7,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./image",
   "newFileLocation": "folder",
-  "newFileFolderPath": "名词释义"
+  "newFileFolderPath": "名词释义",
+  "tabSize": 2
 }
