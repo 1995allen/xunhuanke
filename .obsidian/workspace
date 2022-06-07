@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md",
+            "file": "README.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md"
+                "file": "README.md"
               }
             }
           },
@@ -138,15 +138,15 @@
   },
   "active": "de1239cd93f6e944",
   "lastOpenFiles": [
+    "README.md",
+    "数据库/MySQL 基础教程/第3部分 熟练使用 MySQL/第11章 熟练使用视图.md",
+    "日记/2022-06-07 周二 晚上.md",
     "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md",
     "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第5章 数据类型和数据输入.md",
-    "README.md",
     "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第4章 创建数据库.md",
     "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第7章 复制、删除表和记录.md",
     "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
     "名词释义/总结.md",
-    "名词释义/专栏.md",
-    "数据库/MySQL 基础教程/第3部分 熟练使用 MySQL/第8章 使用各种条件进行提取.md",
-    "日记/2022-06-06 周一 下午.md"
+    "名词释义/专栏.md"
   ]
 }
