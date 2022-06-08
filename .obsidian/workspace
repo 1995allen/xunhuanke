@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第4章 创建数据库.md",
-            "mode": "preview",
+            "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第4章 创建数据库.md",
+                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第4章 创建数据库.md",
+                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第4章 创建数据库.md"
+                "file": "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md"
               }
             }
           },
@@ -138,15 +138,15 @@
   },
   "active": "de1239cd93f6e944",
   "lastOpenFiles": [
+    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第6章 修改表.md",
+    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
+    "名词释义/MySQL 监视器.md",
+    "日记/2022-06-08 周三 晚上.md",
     "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第4章 创建数据库.md",
     "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第5章 数据类型和数据输入.md",
-    "数据库/MySQL 基础教程/第2部分 MySQL 的基础知识/第3章 MySQL 监视器.md",
     "三节课/互联网运营增长/电商运营/搭建电商标签体系实现精细化运营.md",
     "日记/2022-06-08 周三 下午.md",
     "三节课/职场通用能力/汇报沟通/5步打造优秀的业务报告.md",
-    "README.md",
-    "数据库/MySQL 基础教程/第3部分 熟练使用 MySQL/2022-06-08-16-10-59.png",
-    "数据库/MySQL 基础教程/第3部分 熟练使用 MySQL/第11章 熟练使用视图.md",
-    "日记/2022-06-07 周二 晚上.md"
+    "README.md"
   ]
 }
