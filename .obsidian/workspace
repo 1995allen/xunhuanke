@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "88b9747f37b0850e",
+        "id": "aad9c9db5af27e8b",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "书籍存放/用数据讲故事.pdf"
+            "file": "工作/app网页.md",
+            "mode": "source",
+            "backlinks": true
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍存放/用数据讲故事.pdf",
+                "file": "工作/app网页.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书籍存放/用数据讲故事.pdf",
+                "file": "工作/app网页.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书籍存放/用数据讲故事.pdf"
+                "file": "工作/app网页.md"
               }
             }
           },
@@ -136,24 +138,24 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 370,
     "collapsed": true
   },
-  "active": "88b9747f37b0850e",
+  "active": "aad9c9db5af27e8b",
   "lastOpenFiles": [
-    "书籍存放/用数据讲故事.pdf",
-    "数据分析/用数据讲故事/第 1 章 上下文的重要性.md",
-    "数据分析/用数据讲故事/第 0 章 用数据讲故事.md",
-    "书籍存放/加速：企业数字化转型的24项核心能力.pdf",
-    "书籍存放/普林斯顿数学分析读本.pdf",
-    "书籍存放/如何变得有思想：阮一峰博客文集I.pdf",
-    "书籍存放/[谁说菜鸟不会数据分析(.入门篇)].张文霖.全彩版.pdf",
-    "数据库/SQL进阶教程/第3章 附录.md",
-    "数据库/SQL进阶教程/第2章 关系数据库的世界.md",
-    "数据库/SQL进阶教程/第1章 神奇的 SQL.md"
+    "工作/app网页.md",
+    "日记/2022-06-17 周五 下午.md",
+    "名词释义/我的书单.md",
+    "日记/2022-06-16 周四 晚上.md",
+    "产品/启示录2：打造优秀的产品团队.pdf",
+    "名词释义/专栏.md",
+    "日记/2022-06-16 周四 早上.md",
+    "名词释义/MySQL 监视器.md",
+    "名词释义/总结.md",
+    "名词释义/学习进度.md"
   ]
 }

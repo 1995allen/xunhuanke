@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Deep Work",
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "baseFontSize": 14,
+  "baseFontSize": 12,
   "enabledCssSnippets": [
     "Discordian",
     "Obsidian Nord",

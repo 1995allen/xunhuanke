@@ -71,7 +71,7 @@
 
 - simple.html
 
-```HTML
+```html
 <!DOCTYPE html>
 <html>
     <head>
